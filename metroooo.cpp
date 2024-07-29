@@ -1,6 +1,3 @@
-
-// Written by : Ayush Ranjan
-
 #include <bits/stdc++.h>
 #include <iostream>
 #include <fstream>
